@@ -28,4 +28,5 @@
 
 <hr>
 ##### Hosts
-- 
+- For the Network+ exam, stick to the definition of hosts as  
+being network devices, including workstations and servers, with IP addresses.
